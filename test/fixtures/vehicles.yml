@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vehicle: MyString
+  date: 2014-06-30
+  desc: MyString
+  mileage: 1
+  category: 
+  cost: 1.5
+
+two:
+  vehicle: MyString
+  date: 2014-06-30
+  desc: MyString
+  mileage: 1
+  category: 
+  cost: 1.5
