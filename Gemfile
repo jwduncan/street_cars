@@ -9,6 +9,8 @@ gem 'pg'
 gem 'pg_search'
 # for search
 # gem 'textacular'
+# Ransack -- search GEM 
+gem 'ransack'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
